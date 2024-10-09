@@ -1,0 +1,2 @@
+# YouStudy
+privacy policy
