@@ -8,11 +8,13 @@ Thank you for using YouStudy. This Privacy Policy explains how we collect, use, 
 YouStudy does not collect or store any personal information from its users. However, the app uses third-party services that may collect data as part of their operations. These include:
 
 Google AdMob: YouStudy displays ads provided by Google AdMob, which may collect device information such as device ID, IP address, and advertising data. This is used to serve personalized or non-personalized ads. For more information about how Google uses your data, please visit Google's Privacy Policy: https://policies.google.com/privacy.
+
 2. How We Use the Information
 The information collected by third-party services like Google AdMob is used for:
 
 Serving relevant ads based on your interests and location.
 Improving the app experience.
+
 3. No Personal Data Collection
 YouStudy does not request, collect, or store any personal information, such as your name, email address, or payment details.
 
